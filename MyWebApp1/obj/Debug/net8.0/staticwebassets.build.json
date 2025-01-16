@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "/7qViYCSXzN/t10ZcaFBKtPn5EvES4gKjk0/3nD7KKg=",
+  "Source": "MyWebApp1",
+  "BasePath": "_content/MyWebApp1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyWebApp1\\wwwroot",
+      "Source": "MyWebApp1",
+      "ContentRoot": "C:\\Users\\localitadmin\\source\\repos\\MyWork\\Git\\GitTest1\\mywebapp1\\wwwroot\\",
+      "BasePath": "_content/MyWebApp1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\localitadmin\\source\\repos\\MyWork\\Git\\GitTest1\\mywebapp1\\wwwroot\\index.html",
+      "SourceId": "MyWebApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\localitadmin\\source\\repos\\MyWork\\Git\\GitTest1\\mywebapp1\\wwwroot\\",
+      "BasePath": "_content/MyWebApp1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
